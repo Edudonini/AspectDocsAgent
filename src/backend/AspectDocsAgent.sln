@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectDocsAgent.Domain", "AspectDocsAgent.Domain\AspectDocsAgent.Domain.csproj", "{07EA6102-63C8-47A1-9AAF-887B5D483F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectDocsAgent.Application", "AspectDocsAgent.Application\AspectDocsAgent.Application.csproj", "{7C9C7FAE-9736-40A6-B7BC-E2B8D8231AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectDocsAgent.Infrastructure", "AspectDocsAgent.Infrastructure\AspectDocsAgent.Infrastructure.csproj", "{E4D92892-0DCC-417D-810D-4BC6214BC6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectDocsAgent.Api", "AspectDocsAgent.Api\AspectDocsAgent.Api.csproj", "{C0357198-EAE4-4E53-9036-BE8BFAE572D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectDocsAgent.Worker", "AspectDocsAgent.Worker\AspectDocsAgent.Worker.csproj", "{E99AED3E-9CFB-488C-A627-F9FCA46CE5E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectDocsAgent.Tests", "AspectDocsAgent.Tests\AspectDocsAgent.Tests.csproj", "{004D5400-CE00-4DC1-958E-E3D0060510AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EA6102-63C8-47A1-9AAF-887B5D483F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EA6102-63C8-47A1-9AAF-887B5D483F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EA6102-63C8-47A1-9AAF-887B5D483F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EA6102-63C8-47A1-9AAF-887B5D483F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9C7FAE-9736-40A6-B7BC-E2B8D8231AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9C7FAE-9736-40A6-B7BC-E2B8D8231AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9C7FAE-9736-40A6-B7BC-E2B8D8231AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9C7FAE-9736-40A6-B7BC-E2B8D8231AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D92892-0DCC-417D-810D-4BC6214BC6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D92892-0DCC-417D-810D-4BC6214BC6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D92892-0DCC-417D-810D-4BC6214BC6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D92892-0DCC-417D-810D-4BC6214BC6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0357198-EAE4-4E53-9036-BE8BFAE572D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0357198-EAE4-4E53-9036-BE8BFAE572D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0357198-EAE4-4E53-9036-BE8BFAE572D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0357198-EAE4-4E53-9036-BE8BFAE572D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99AED3E-9CFB-488C-A627-F9FCA46CE5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99AED3E-9CFB-488C-A627-F9FCA46CE5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99AED3E-9CFB-488C-A627-F9FCA46CE5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99AED3E-9CFB-488C-A627-F9FCA46CE5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004D5400-CE00-4DC1-958E-E3D0060510AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004D5400-CE00-4DC1-958E-E3D0060510AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004D5400-CE00-4DC1-958E-E3D0060510AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004D5400-CE00-4DC1-958E-E3D0060510AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

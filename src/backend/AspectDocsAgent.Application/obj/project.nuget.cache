@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEfXw8fJNEY=",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Portfolio\\AspectDocsAgent\\src\\backend\\AspectDocsAgent.Application\\AspectDocsAgent.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardod\\.nuget\\packages\\pdfpig\\0.1.10\\pdfpig.0.1.10.nupkg.sha512",
+    "C:\\Users\\eduardod\\.nuget\\packages\\system.io.pipelines\\9.0.4\\system.io.pipelines.9.0.4.nupkg.sha512",
+    "C:\\Users\\eduardod\\.nuget\\packages\\system.net.http.json\\9.0.4\\system.net.http.json.9.0.4.nupkg.sha512",
+    "C:\\Users\\eduardod\\.nuget\\packages\\system.text.encodings.web\\9.0.4\\system.text.encodings.web.9.0.4.nupkg.sha512",
+    "C:\\Users\\eduardod\\.nuget\\packages\\system.text.json\\9.0.4\\system.text.json.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
